@@ -1,16 +1,13 @@
-### Hi there 👋
+# I’m currently working on
+1. @h-projects
+2. Chrome Collections
+3. My Website
 
-<!--
-**Senko-Dev/Senko-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I’m currently learning 
+1. JS
+2. TS
+3. React
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun Facts
+H
