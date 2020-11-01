@@ -1,15 +1,15 @@
-# I’m currently working on
+### I’m currently working on
 - @h-projects
 - Chrome Collections
 - My Website
 
-#  I’m currently learning 
+### I’m currently learning 
 - JS
 - TS
 - React
 
 
-#About Me
+### About Me
 - they/them 
 - asexual enby 
 - minor 
