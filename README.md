@@ -11,7 +11,7 @@
 
 ### About Me
 - they/them 
-- asexual enby 
+- masc-aligned asexual enby 
 - minor 
 - gec/shrimp 
 - made @AytchSoftware
