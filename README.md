@@ -14,4 +14,4 @@
 - masc-aligned asexual enby 
 - minor 
 - gec/shrimp 
-- made @AytchSoftware
+- made @h-projects
