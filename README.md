@@ -10,8 +10,7 @@
 
 
 ### About Me
-- they/them 
-- masc-aligned asexual enby 
+- they/bun/nya/he
+- demiboy demisexual
 - minor 
-- gec/shrimp 
 - made @h-projects
