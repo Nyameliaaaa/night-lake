@@ -1,4 +1,4 @@
-![DiscordImg](https://img.shields.io/badge/DISCORD-SenkoDev%232137-blue?style=for-the-badge&logo=discord)
+![DiscordImg](https://img.shields.io/badge/DISCORD-SenkoDev%232137-blue?style=for-the-badge&logo=discord) ![Pronouns: They/He](https://img.shields.io/badge/pronouns-They%2FHe-green?style=for-the-badge)
 
 ### I’m currently working on
 - @h-projects
