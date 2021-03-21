@@ -14,4 +14,4 @@ I'm Sadie! I go by she/they! I'm a passionate, mostly frotend, developer and UI/
 - TS
 - Discord.PY and Python
 
-[![DevSenko's github stats](https://github-readme-stats.vercel.app/api?username=DevSenko)](https://github.com/anuraghazra/github-readme-stats)
+[![DevSadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats)
