@@ -1,4 +1,4 @@
-<!--- ![DiscordImg](https://img.shields.io/badge/DISCORD-DevSadie%239078-blue?style=for-the-badge&logo=discord) ![Pronouns: She/They](https://img.shields.io/badge/pronouns-She%2FThey-green?style=for-the-badge)
+![DiscordImg](https://img.shields.io/badge/DISCORD-DevSadie%239078-blue?style=for-the-badge&logo=discord) ![Pronouns: She/They](https://img.shields.io/badge/pronouns-She%2FThey-green?style=for-the-badge)
 
 # Hey There!
 I'm Sadie! I go by she/they! I'm a passionate, mostly frotend, developer and UI/UX Designer. For the past year, I've been teaching myself to code and sharing my progess with the world.
@@ -14,6 +14,4 @@ I'm Sadie! I go by she/they! I'm a passionate, mostly frotend, developer and UI/
 - TS
 - Discord.PY and Python
 
-[![DevSadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats) --->
-
-Senko is real, but Sadie isn't.
+[![DevSadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats)
