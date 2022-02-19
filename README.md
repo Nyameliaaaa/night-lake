@@ -14,9 +14,18 @@ I'm Sadie! I go by she/they! I'm a passionate, mostly frotend, developer and UI/
 - TS
 - Discord.PY and Python
 
-[![DevSadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
- idk what to put here
- 
-hi i guess
+```ts
+const profileInfo = {
+  name: 'Sadie',
+  mainLanguage: 'TypeScript',
+  socials: {
+    discord: 'nightlake#3370'
+    twitter: '_nightlake'
+  },
+  site: () => {
+    return 'sadie.is-a.dev'
+  }
+};
