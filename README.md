@@ -22,7 +22,7 @@ const profileInfo = {
   name: 'Sadie',
   mainLanguage: 'TypeScript',
   socials: {
-    discord: 'nightlake#3370'
+    discord: 'nightlake#3370',
     twitter: '_nightlake'
   },
   site: () => {
