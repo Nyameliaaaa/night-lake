@@ -25,7 +25,9 @@ const profileInfo = {
     discord: 'nightlake#3370',
     twitter: '_nightlake'
   },
+  pronouns: 'She/They',
   site: () => {
     return 'sadie.is-a.dev'
-  }
+  },
+  projects: ['gasbot', 'tiskit', 'fluorine']
 };
