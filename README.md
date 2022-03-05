@@ -1,19 +1,3 @@
-<!-- ![DiscordImg](https://img.shields.io/badge/DISCORD-DevSadie%239078-blue?style=for-the-badge&logo=discord) ![Pronouns: She/They](https://img.shields.io/badge/pronouns-She%2FThey-green?style=for-the-badge)
-
-
-### I’m currently working on
-- @h-projects
-- Proton
-- My portfolio
-
-### I’m currently learning 
-- React
-- TS
-- Discord.PY and Python
-
-[![Sadie's github stats](https://github-readme-stats.vercel.app/api?username=DevSadie)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
 ```ts
 const profileInfo = {
   name: 'Sadie',
@@ -30,5 +14,6 @@ const profileInfo = {
 };
 ```
 
-[![Sadie's github stats](https://github-readme-stats.vercel.app/api?username=night-lake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sadie's top used languages](https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadie's github stats](https://github-readme-stats.vercel.app/api?username=night-lake&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Sadie's top used languages](https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
