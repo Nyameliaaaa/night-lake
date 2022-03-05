@@ -22,8 +22,8 @@
 - Find me at [https://sadie.is-a.dev/about](https://sadie.is-a.dev/about)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&locale=en&height=512" alt="night-lake" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&locale=en&height=512" alt="night-lake" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=night-lake&show_icons=true&theme=dark&hide_border=true&locale=en&height=512" alt="night-lake" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=night-lake&theme=dark&locale=en&height=512" alt="night-lake" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=night-lake&theme=dark&locale=en&height=512&hide_border=true" alt="night-lake" /></p>
