@@ -31,4 +31,4 @@ const profileInfo = {
 ```
 
 [![Sadie's github stats](https://github-readme-stats.vercel.app/api?username=night-lake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sadie's top used languages](https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&show_icons=true&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Sadie's top used languages](https://github-readme-stats.vercel.app/api/top-langs?username=night-lake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
