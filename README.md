@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sadie</h1>
-<h3 align="center">I'm a 15 y/o gal who mostly make things in TypeScript, sometimes those things work.</h3>
+<h3 align="center">I'm a 15 y/o gal who mostly makes things in TypeScript, sometimes those things work.</h3>
 
 ![night-lake](https://komarev.com/ghpvc/?username=night-lake&label=Profile%20views&style=flat-square&color=ffaebd&style=flat)
 <a href="https://twitter.com/_nightlake" target="blank" style="display: inline-block;">
