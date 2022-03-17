@@ -19,7 +19,7 @@
 
 - Ask me about **react and typescript**
 
-- How to reach me **sadiebk@fluorine.me**
+- How to reach me **sadiemk@fluorine.me**
 
 - Find me at [https://sadie.is-a.dev/about](https://sadie.is-a.dev/about)
 
